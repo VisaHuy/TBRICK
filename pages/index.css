@@ -1,0 +1,6 @@
+@import url(../vendor/normalize.css);
+@import url(../blocks/root/root.css);
+
+@import url(../blocks/preloader/preloader.css);
+@import url(../blocks/preloader/__row/preloader__row.css);
+@import url(../blocks/preloader/__item/preloader__item.css);
