@@ -2,3 +2,9 @@
     width: 300px;
     overflow: hidden;
 }
+
+@media (max-width:500px){
+    .preloader__row{
+        width: 250px;
+    }
+}

@@ -18,17 +18,11 @@
     }
 }
 
-/* .loaded_hiding .preloader {
+.loaded_hiding .preloader {
     transition: 0.3s opacity;
     opacity: 0;
 }
 
 .loaded .preloader {
     display: none;
-} */
-
-@media (max-width:500px){
-    .preloader__row,.preloader__item{
-        width: 250px;
-    }
 }

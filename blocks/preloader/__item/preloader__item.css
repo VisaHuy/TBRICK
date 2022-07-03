@@ -14,3 +14,9 @@
         transform: translateX(120%);
     }
 }
+
+@media (max-width:500px){
+    .preloader__item{
+        width: 250px;
+    }
+}
