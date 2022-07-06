@@ -1,0 +1,29 @@
+.menu__link{
+    font-family: "NeueHaasDisplay-Bold";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    letter-spacing: -0.03em;
+    text-transform: uppercase;
+    color: #1E1E1E;
+    text-decoration: none;
+    margin-right: 11px;
+}
+
+.menu__link:last-child{
+    margin: 0;
+}
+
+@media screen and (max-width:768px) {
+    .menu__link{
+        font-size: 3vw;
+        margin-right: 1vw;
+    }
+}
+@media screen and (max-width:320px) {
+    .menu__link{
+        font-size: 11px;
+        margin-right: 3px;
+    }
+}

@@ -1,0 +1,17 @@
+@font-face {
+    font-family: "NeueHaasDisplay-Bold";
+    src: url(../fonts/NeueHaasDisplay-Bold/NeueHaasDisplay-Bold.woff) format("woff"),
+         url(../fonts/NeueHaasDisplay-Bold/NeueHaasDisplay-Bold.woff2) format("woff2");
+}
+
+@font-face {
+    font-family:"NeueHaasDisplay-Regular";
+    src: url(../fonts/NeueHaasDisplay-Regular/NeueHaasDisplay-Regular.woff2) format("woff"),
+         url(../fonts/NeueHaasDisplay-Regular/NeueHaasDisplay-Regular.woff2) format("woff2");
+}
+
+@font-face {
+    font-family: "SFUIDisplay-Regular";
+    src: url(../fonts/SFUIDisplay-Regular/SFUIDisplay-Regular.woff) format("woff"),
+         url(../fonts/SFUIDisplay-Regular/SFUIDisplay-Regular.woff2) format("woff2");
+}

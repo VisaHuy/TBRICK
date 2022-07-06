@@ -1,0 +1,23 @@
+.header{
+    min-height: 100px;
+    /* min-width: calc(100vw - 160px);
+    position: fixed; */
+    padding: 0 80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+@media screen and (max-width:768px) {
+    .header{
+        padding: 0 5vw;
+        /* min-width: calc(100vw - 10vw); */
+    }
+}
+
+@media screen and (max-width:320px) {
+    .header{
+        padding: 0 16px;
+        /* min-width: calc(100vw - 32px); */
+    }
+}
